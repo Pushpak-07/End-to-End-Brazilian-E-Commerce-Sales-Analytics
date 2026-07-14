@@ -1,0 +1,53 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+
+# Power BI
+*.pbix.autosave
+
+# Build Files
+dist/
+build/
+*.egg-info/
+
+# Jupyter Temporary Files
+.virtual_documents/
+
+# Python Version
+.python-version
